@@ -39,8 +39,8 @@ set nocp
 
 "set encoding=utf-8
 ""set encoding=gb2312
-set langmenu=zh_CN.gb2312
-language message zh_CN.gb2312
+"set langmenu=zh_CN.gb2312
+"language message zh_CN.gb2312
 
 set fileencoding=gbk2312
 set ts=4
